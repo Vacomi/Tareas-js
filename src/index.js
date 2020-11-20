@@ -33,6 +33,6 @@
 
     // const newTodo = new Todo('Aprender Javascript');
     // todoList.nuevoTodo(newTodo);
-    todoList.tareas[0].imprimirClase();
+    //todoList.tareas[0].imprimirClase();
 
     console.log('Tareras', todoList.tareas);
